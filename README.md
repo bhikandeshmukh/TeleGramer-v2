@@ -41,20 +41,10 @@ $ cd TeleGramer
 Install requierments & Setup Configuration File. ( apiID, apiHash )
 
 ```
-$ python setup.py
+$ python TeleGramer.py
 ```
 
-To Scare members from group.
-
-```
-$ python scraper.py
-```
-
-Add Scarped members to your group.
-
-```
-$ python adder.py
-```
+Next Follow Interaction In Terminal
 
 
 ### Development by
