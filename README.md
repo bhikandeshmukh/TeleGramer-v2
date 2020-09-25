@@ -35,7 +35,7 @@ $ pkg install git
 
 $ git clone https://github.com/thebhikandeshmukh/TeleGramer-v2.git
 
-$ cd TeleGramer 
+$ cd TeleGramer-v2 
 ```
 
 Install requierments & Setup Configuration File. ( apiID, apiHash )
